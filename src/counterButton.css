@@ -1,0 +1,16 @@
+.button-increment{
+    background-color: green;
+    padding: 5px 40px 5px 40px;
+    margin-right: 50px;
+}
+
+.button-decrement{
+    background-color: red;
+    padding: 5px 40px 5px 40px;
+    margin-right: 50px;
+}
+
+.button-container{
+    margin-top: 20px;
+    border: 1px;
+}

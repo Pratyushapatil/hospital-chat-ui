@@ -1,0 +1,51 @@
+/* 
+/* CSS for sign up form */
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px #ffffff;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #7F1114;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    color: #7F1114;
+
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    font-size: 16px;
+    
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #7F1114;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #7F1114;
+  }
